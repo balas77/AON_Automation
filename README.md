@@ -1,5 +1,4 @@
 # AON - Resource Health Check
-Automation related to AON product
 
 AON Health Check - Component Deployment <br>
 
