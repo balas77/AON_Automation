@@ -13,6 +13,6 @@ _Click the below "**Deploy to Azure**" button to create the AON health check res
 </a>
 
 _Click the below "**Deploy to Azure**" button to create the **Azure OpenAI Resources** <br> <br>_
-<a href="https://ms.portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Faonpackage.blob.core.windows.net%2Fartifacts-healthcheck%2Fazureoaideploy.json" target="_blank">
+<a href="https://ms.portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fststv2package.blob.core.windows.net%2Fartifacts-aoai%2Fazureoaideploy.json" target="_blank">
   <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true"/>
 </a>
